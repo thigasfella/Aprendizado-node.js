@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newslatter</title>
+    <link rel="stylesheet" href="/styles/globals.css">
+</head>
+<body>
+    <div class="container">
+    <h1 class="title">Emails Cadastrados</h1>
+    <button class="btn" onclick="voltarParaPaginaCadastro()">Voltar para cadastro de email</button>
+        <div>
+            <% emails.forEach(email =>{ %>
+                <p><%= email %></p>
+           <% }) %>
+            </div>
+    </div>
+    </div>
+    <script src="/pages.js"></script>
+</body>
+</html>

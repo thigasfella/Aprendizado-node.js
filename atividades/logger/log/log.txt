@@ -1,0 +1,300 @@
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365396.218 segundos
+Uso da memória: 86.83%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365397.234 segundos
+Uso da memória: 86.93%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365398.25 segundos
+Uso da memória: 86.89%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365399.25 segundos
+Uso da memória: 87.12%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365400.265 segundos
+Uso da memória: 87.12%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365401.265 segundos
+Uso da memória: 87.09%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365402.265 segundos
+Uso da memória: 87.11%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365403.265 segundos
+Uso da memória: 87.14%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365404.281 segundos
+Uso da memória: 87.16%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365405.296 segundos
+Uso da memória: 87.18%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365406.296 segundos
+Uso da memória: 87.05%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365407.296 segundos
+Uso da memória: 87.17%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365408.312 segundos
+Uso da memória: 87.03%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365409.312 segundos
+Uso da memória: 87.08%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365410.328 segundos
+Uso da memória: 87.08%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365411.328 segundos
+Uso da memória: 86.98%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365412.343 segundos
+Uso da memória: 86.98%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365413.343 segundos
+Uso da memória: 86.89%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365414.343 segundos
+Uso da memória: 87.17%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365415.343 segundos
+Uso da memória: 87.10%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365416.359 segundos
+Uso da memória: 87.14%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365417.375 segundos
+Uso da memória: 87.14%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365418.39 segundos
+Uso da memória: 87.12%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365419.406 segundos
+Uso da memória: 87.17%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365420.406 segundos
+Uso da memória: 87.30%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365421.406 segundos
+Uso da memória: 87.30%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365422.421 segundos
+Uso da memória: 87.34%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365423.437 segundos
+Uso da memória: 87.32%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365424.437 segundos
+Uso da memória: 87.33%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365425.437 segundos
+Uso da memória: 87.28%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365426.453 segundos
+Uso da memória: 87.16%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365427.468 segundos
+Uso da memória: 87.16%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365428.468 segundos
+Uso da memória: 87.13%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365429.546 segundos
+Uso da memória: 87.12%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365430.5 segundos
+Uso da memória: 86.95%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365431.515 segundos
+Uso da memória: 86.98%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365432.515 segundos
+Uso da memória: 86.97%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365433.531 segundos
+Uso da memória: 86.97%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365434.546 segundos
+Uso da memória: 86.92%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365435.546 segundos
+Uso da memória: 86.91%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365436.562 segundos
+Uso da memória: 86.93%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365437.578 segundos
+Uso da memória: 87.04%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365438.578 segundos
+Uso da memória: 86.93%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365439.593 segundos
+Uso da memória: 87.10%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365440.593 segundos
+Uso da memória: 87.12%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365441.593 segundos
+Uso da memória: 87.13%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365442.609 segundos
+Uso da memória: 87.01%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365443.625 segundos
+Uso da memória: 87.03%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365444.625 segundos
+Uso da memória: 86.97%
+
+Nome do sistema: win32
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de uso: 365445.625 segundos
+Uso da memória: 87.09%
+
